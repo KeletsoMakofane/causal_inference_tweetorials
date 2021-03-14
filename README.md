@@ -12,7 +12,7 @@ I am buildling a porfolio as a teacher so please do let me know if these are bei
 
 ![](_images/exchangeable.png)
 
-
+![](_images/netcausalinf.png)
 
 Enjoy!
 
